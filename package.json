@@ -8,16 +8,16 @@
     },
     "publisher": "ms-toolsai",
     "author": {
-        "name": "Microsoft Corporation"
+        "name": "Pho + Microsoft Corporation"
     },
     "license": "MIT",
-    "homepage": "https://github.com/Microsoft/vscode-notebook-renderers",
+    "homepage": "https://github.com/CommanderPho/vscode-notebook-renderers",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Microsoft/vscode-notebook-renderers"
+        "url": "https://github.com/CommanderPho/vscode-notebook-renderers"
     },
     "bugs": {
-        "url": "https://github.com/Microsoft/vscode-notebook-renderers/issues"
+        "url": "https://github.com/CommanderPho/vscode-notebook-renderers/issues"
     },
     "qna": "https://stackoverflow.com/questions/tagged/visual-studio-code+jupyter",
     "icon": "icon.png",
@@ -29,7 +29,8 @@
         "jupyter",
         "notebook",
         "notebookRenderer",
-        "multi-root ready"
+        "multi-root ready",
+        "Pho"
     ],
     "categories": [
         "Other",
