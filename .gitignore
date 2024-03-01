@@ -3,3 +3,5 @@ node_modules
 .vscode-test/
 *.vsix
 **/.DS_Store
+desktop.ini
+FM-{0C63950E-F847-4533-A298-5E08AC3A962E}.ico
